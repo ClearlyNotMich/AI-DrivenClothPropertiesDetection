@@ -26,7 +26,7 @@ The source comments in [`code/main.py`](code/main.py) credit the custom CNN to *
 These tools do not require TensorFlow, model weights or the original dataset. Use Python 3.10 or newer in a virtual environment:
 
 ```bash
-git clone https://github.com/ObviouslyNotMich/AI-DrivenClothPropertiesDetection.git
+git clone https://github.com/ClearlyNotMich/AI-DrivenClothPropertiesDetection.git
 cd AI-DrivenClothPropertiesDetection
 python -m venv .venv
 # Linux/macOS:
