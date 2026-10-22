@@ -3,3 +3,24 @@ code/trained_model/vgg19model.h5
 code/trained_model/cnnmodel.h5
 code/trained_model/lenetmodel.h5
 code/trained_model/resnetmodel.h5
+
+# Local environments and generated outputs; keep the committed metadata CSV.
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.idea/
+.DS_Store
+.env
+.env.*
+!.env.example
+/data/
+/data_temp/
+/data_processed/
+/code/data/
+/code/data_temp/
+/code/data_processed/
+/code/trained_model/
+/code/model.h5
+/code/model_weights.h5
