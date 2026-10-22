@@ -1,0 +1,4 @@
+# Lightweight metadata demo and non-destructive image preparation only.
+# This is not a dependency lockfile for the historical training notebooks.
+Flask>=3.1,<4
+opencv-python>=4.8,<6
